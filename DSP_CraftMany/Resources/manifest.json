@@ -1,7 +1,7 @@
 ﻿{
   "name": "CraftMany",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/risk-of-thunder",
+  "website_url": "https://github.com/Drummss/DSP_Mods",
   "description": "Factorio style craft queueing - craft different quantities by clicking produce with the Ctrl, Shift, or Alt keys.",
   "dependencies": [
     "xiaoye97-BepInEx-5.4.5"
